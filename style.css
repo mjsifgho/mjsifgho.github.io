@@ -1,0 +1,26 @@
+
+#framebody{
+    align-items: center;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#mainframe{
+    background-color:blue;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 144px;
+    height: 4px;
+}
+
+.p{
+    background-color: red;
+    width: 4px;
+    height: 4px;
+}
